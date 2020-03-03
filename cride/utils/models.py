@@ -1,4 +1,4 @@
-from djando.db import models
+from django.db import models
 
 class CRideModel(models.Model):
     """Comparte ride base model
