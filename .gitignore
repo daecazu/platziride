@@ -279,3 +279,5 @@ cride/media/
 !.envs/.local/
 ### Migrations
 cride/users/migrations/*
+cride/circles/migrations/*
+*/migrations/*
